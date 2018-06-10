@@ -2,13 +2,13 @@
 
 * [An introduction to "oxidation state"/"oxidation number"](https://chemistry.stackexchange.com/questions/69798/an-introduction-to-oxidation-state-oxidation-number/)
 
-## other canonical resources
+## discussions about canonical posts on meta
 
 * https://chemistry.meta.stackexchange.com/questions/3396/policy-on-amirite-questions
 * https://chemistry.meta.stackexchange.com/questions/3472/the-giant-list-of-duplicates
 * https://chemistry.meta.stackexchange.com/questions/3698/canonical-qa-proposing-a-patronage-system
 
-# stoichiometry questions
+# stoichiometry questions 
 
 * https://chemistry.stackexchange.com/questions/10021/simplest-way-to-balance-any-chemical-equation
 * https://chemistry.stackexchange.com/questions/46383/a-good-textbook-to-balance-chemical-equations
