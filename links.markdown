@@ -14,6 +14,7 @@
 * https://chemistry.stackexchange.com/questions/46383/a-good-textbook-to-balance-chemical-equations
 * https://chemistry.stackexchange.com/questions/62016/balance-redox-equation-with-only-one-produ
 * https://chemistry.stackexchange.com/questions/64202/more-than-one-way-of-balancing-a-chemical-equation
+* Algebraic method: https://chemistry.stackexchange.com/q/98275/5026 - note: in most questions, apparently, students are able to setup (n-1) equations for a system of n variables. turns out they never realize any reaction can have infinite solutions for balancing, and they need to start by assuming an integer value for one variable
 
 ## in order of difficulty
 
