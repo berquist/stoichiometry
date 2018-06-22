@@ -8,7 +8,7 @@
 * https://chemistry.meta.stackexchange.com/questions/3472/the-giant-list-of-duplicates
 * https://chemistry.meta.stackexchange.com/questions/3698/canonical-qa-proposing-a-patronage-system
 
-# stoichiometry questions 
+# stoichiometry questions
 
 * https://chemistry.stackexchange.com/questions/10021/simplest-way-to-balance-any-chemical-equation
 * https://chemistry.stackexchange.com/questions/46383/a-good-textbook-to-balance-chemical-equations
@@ -22,7 +22,13 @@
 * https://chemistry.stackexchange.com/questions/29002/how-can-i-balance-the-following-equation-atomically-and-electrically bon's answer has good steps on balancing and combining half reactions
 * https://chemistry.stackexchange.com/questions/39549/balancing-chemical-equations
 * https://chemistry.stackexchange.com/questions/96181/mathematically-balancing-chemical-equation-yields-weird-results
+* https://chemistry.stackexchange.com/questions/68924/what-is-the-simplest-approach-to-balance-a-complex-reaction-equation
 * https://chemistry.stackexchange.com/questions/24245/are-matrices-a-good-way-to-do-stoichiometry
+
+## unsorted
+
+* https://chemistry.stackexchange.com/questions/54078/balancing-by-oxidation-numbers-method-multiple-atoms
+* https://chemistry.stackexchange.com/questions/36970/how-to-balance-more-complex-redox-reactions
 
 # stoichiometry CP proposed
 

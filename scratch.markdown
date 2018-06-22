@@ -1,3 +1,5 @@
+Would be interesting as an appendix to provide some code. https://stackoverflow.com/questions/5889142/python-numpy-scipy-finding-the-null-space-of-a-matrix
+
 # [Given an unbalanced chemical equation, is it possible to determine the largest possible coefficient that could be used in the balanced equation?](https://chemistry.stackexchange.com/q/60038/194)
 
 tags: equilibrium computational-chemistry stoichiometry
